@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@400;500;700;800&family=Raleway:wght@400;500;600&display=swap');
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #24252A;
+    color: #edf0f1;
+    font-family: 'Nunito', sans-serif;
+}
+
